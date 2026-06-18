@@ -10,7 +10,7 @@
 
 ```
 龟山电视台篇/
-├── 工具软件/           # 开发工具
+├── 工具软件/           # 开发工具（由于文件较大，请通过链接下载）
 │   ├── 驱动/           # CH340串口驱动
 │   ├── VSCode
 │   ├── Arduino IDE
@@ -32,6 +32,21 @@
     ├── 硬件/PCB设计图/
     └── 成本表.xlsx
 ```
+
+---
+
+## 工具软件
+
+> ⚠️ 由于部分软件安装包超过 GitHub 25MB 限制，请通过以下链接下载：
+
+| 软件 | 版本 | 下载地址 |
+|------|------|----------|
+| Arduino IDE | 2.3.8 | https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.8_Windows_64bit.exe |
+| VSCode | 1.120.0 | https://code.visualstudio.com/sha/download?build=stable&os=win64-x64 |
+| Android Studio | - | https://developer.android.com/studio |
+| Thonny | 4.1.7 | https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.exe |
+| CH340驱动 | 3.4 | 搜索 "CH340 USB驱动" 下载 |
+| 紫罗兰工具箱 | 1.09 | 搜索 "紫罗兰工具箱" 下载 |
 
 ---
 
